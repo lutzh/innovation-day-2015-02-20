@@ -85,6 +85,8 @@ flying start and go straight for the interesting stuff.
 
 **Team members**
 
+- Constantijn (XSD)
+
 ---------------------------------------------------------------
 **Project**
 Akka/Spray metrics
