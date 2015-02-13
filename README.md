@@ -184,7 +184,7 @@ What Wehkamp needs is some direction/options of how to organize this entire stac
 Jurjan Woltman, Paul Frederix
 
 **Team members**
-
+- Armin (XSD)
 
 ### Scala / Akka / Spray
 
