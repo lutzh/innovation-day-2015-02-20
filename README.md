@@ -141,6 +141,18 @@ Some rough ideas:
 - **Play with Google Glass**
 - **"speak to search"**: a web/app button that translates spoken word into a Wehkamp product search
 - **Fancy native app UX showcases** (iOS8 or Android material design) for searching Wehkamp and browsing through products, etc.
+ 
+---------------------------------------------------------------
+**Project**
+Something WatchKit
+
+**Description**
+To be added
+
+**Contact person(s)**
+Jeroen Leenarts
+
+**Team members**
 
 ---------------------------------------------------------------
 **Project**
