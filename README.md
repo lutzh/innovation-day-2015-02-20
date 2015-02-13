@@ -58,39 +58,49 @@ suggestions, see the next section.
 ---------------------------------------------------------------
 **Project**
 Visual product matching and recommendations
+
 **Description**
 Use image interpretation and matching algorithms to build cool stuff on top
 of the Wehkamp product catalog.
+
 **Contact person(s)**
 - Ivo (GDD)
 - Friso (GDD)
+
 **Team members**
 
 ---------------------------------------------------------------
 **Project**
 Clickstream data analysis, product recommendations, and more.
+
 **Description**
 Use the existing clickstream data gathered in production by GDD's
 Divolte to grou/classify users, generate product recommendations, etc.
 Lots of work has been done in this field already so you can have a
 flying start and go straight for the interesting stuff.
+
 **Contact person(s)**
 - Kris (GDD)
 - Vincent (GDD)
+
 **Team members**
 
 ---------------------------------------------------------------
 **Project**
 Akka/Spray metrics
+
 **Description**
 We are currently not collecting any kind of metrics on average, mean, minimum, maximum response times, number of requests per time period, actor mailbox bottlenecks, etc. These would be very useful indeed so we want to play with akka-monitor and kamon and connect those to our existing (or new) SAAS metrics services (mainly New Relic).
+
 **Contact person(s)**
 Age
+
 **Team members**
 
 ---------------------------------------------------------------
 **Project**
 XSD CV Generator
+
 **Description**
 Quote from a recent mail thread: 
 
@@ -101,9 +111,11 @@ template gemaakt is kan iedereen zijn eigen CV in json omzetten en ziet het er a
 hetzelfde uit."*
 
 We'll be doing this :smiley:
+
 **Contact person(s)**
 - Constantijn
 - Ruben
+
 **Team members**
 
 ---------------------------------------------------------------
@@ -121,13 +133,6 @@ We'll be doing this :smiley:
 
 ## Proposed Projects/Ideas
 
-
-Mobile:
-- 3D verhaal Jeroen en Roy
-- Google Glass search
-- Speak to search
-- mobile search app
-
 ### Mobile / Responsive / UX
 Some rough ideas:
 
@@ -138,10 +143,13 @@ Some rough ideas:
 ---------------------------------------------------------------
 **Project**
 Fancy 3D product image browser
+
 **Description**
 Jeroen W. and Roy were working on something cool like this during an XKE before they left the project.
+
 **Contact person(s)**
 Jeroen Willemsen, Roy
+
 **Team members**
 
 
@@ -150,14 +158,17 @@ Jeroen Willemsen, Roy
 ---------------------------------------------------------------
 **Project**
 Deploying apps & micro-services to AWS: towards Docker!
+
 **Description**
 At Wehkamp we are currently using a large Ansible codebase to completely configure and deploy our AWS landscape. This contains everything from setting up virtual private networks, security roles, load balancers (ELB and HAproxy), etc to deploying our actual software (Scala/Akka/Spray services) and the stuff around it (Cassandra, Elasticsearch, Kafka, Hadoop). All of this is currently run in three environments (dev, accept, production) and kicked off from Bamboo.
 
 The teams are currently looking at migrating towards Docker and (probably) Consul but no final decisions have been made so there is a lot of room left for experimentation.
 
 What Wehkamp needs is some direction/options of how to organize this entire stack into easier to reuse and layer chunks. Docker is an obvious target for the apps and services (although clustering makes it a little harder) and perhaps also for the Cassandra, etc. But how do we better separate the AWS setup stuff from the deployment stuff? Should we go for Mesos? Should we use Consul? How do we network docker containers together? How does this interact with our (HAProxy) load balancers?
+
 **Contact person(s)**
 Jurjan Woltman, Paul Frederix
+
 **Team members**
 
 
@@ -166,20 +177,26 @@ Jurjan Woltman, Paul Frederix
 ---------------------------------------------------------------
 **Project**
 Distributed Akka Persistence?
+
 **Description**
 The original guy behind Akka Persistence, Martin Krasser, has started a new project that takes those original ideas to the next level. It might be cool to experiment with this technology in the context of an Aka cluster. Check it out: [Eventuate](https://github.com/RBMHTechnology/eventuate). One of the most interesting things for Wehkamp would be sharded/replicated persistent actors that use CRDTs and distributed pub-sub behind the scenes to stay in sync. Goal: run a clustered akka app where the same persistent actor runs on every node and stays in sync without producing conflicts.
+
 **Contact person(s)**
 Age
+
 **Team members**
 
 
 ---------------------------------------------------------------
 **Project**
 Akka cluster upgrade madness
+
 **Description**
 At Wehkamp we are using Akka cluster in combination with persistent cluster singletons and persistent cluster sharding. This is awesome for development but it does make continuous deployment slightly harder because there is no good way to upgrade the running cluster node-by-node while guaranteeing backwards compatibility (like incompatible serialization or an Akka version upgrade). Currently we do indeed upgrade node by node but there must be a way to setup two clusters with one in read-only mode. The Akka dev team has hinted in that direction. Let's see what we can come up with...
+
 **Contact person(s)**
 Age
+
 **Team members**
 
 
@@ -200,12 +217,15 @@ Age
 ---------------------------------------------------------------
 **Project**
 Single/Multi Page AngularJs Apps and SEO
+
 **Description**
 The current implementation of the Wehkamp Belgium platform uses AngularJs in a complicated combination with some server-side generated pages, all in order to be able to deliver correct SEO behavior. This is a dead end and its time we fix it so the plan is to replace all server-side generated pages with a proper API and AngularJs frontend. 
 
 But what about SEO? We want to play with several ways to generate static google pages in a way that is compatible with an e-commerce company that heavily depends on Google for income. We have looked at prerender.io or simply building our own separate app that serves those few special pages in a serverside rendered way specifically for search spider bots. Help us figure this out!
+
 **Contact person(s)**
 Age, Ruben
+
 **Team members**
 
 
