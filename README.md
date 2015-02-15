@@ -68,6 +68,7 @@ of the Wehkamp product catalog.
 - Friso (GDD)
 
 **Team members**
+- Joshua (XSD)
 
 ---------------------------------------------------------------
 **Project**
