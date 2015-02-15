@@ -123,9 +123,15 @@ We'll be doing this :smiley:
 
 ---------------------------------------------------------------
 **Project**
+Explore solutions to common problems in different languages, etc.
 **Description**
+We want to start with trying to compare solutions for simple problems using Clojure and Scala. The goal is to see if significant differences in effort and complexicity are incountered
 **Contact person(s)**
+Joost
+Daniel
 **Team members**
+Joost
+Daniel
 
 ---------------------------------------------------------------
 **Project**
