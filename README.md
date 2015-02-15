@@ -96,7 +96,7 @@ Akka/Spray metrics
 We are currently not collecting any kind of metrics on average, mean, minimum, maximum response times, number of requests per time period, actor mailbox bottlenecks, etc. These would be very useful indeed so we want to play with akka-monitor and kamon and connect those to our existing (or new) SAAS metrics services (mainly New Relic).
 
 **Contact person(s)**
-Age
+- Age
 
 **Team members**
 
@@ -129,12 +129,12 @@ Explore solutions to common problems in different languages, etc.
 We want to start with trying to compare solutions for simple problems using Clojure and Scala. The goal is to see if significant differences in effort and complexicity are incountered
 
 **Contact person(s)**
-Joost
-Daniel
+- Joost
+- Daniel
 
 **Team members**
-Joost
-Daniel
+- Joost
+- Daniel
 
 ---------------------------------------------------------------
 **Project**
