@@ -89,7 +89,7 @@ flying start and go straight for the interesting stuff.
 
 - Constantijn (XSD)
 - Tünde (GDD)
-- Marjolijn
+- Marjolijn (Wehkamp)
 
 ---------------------------------------------------------------
 **Project**
@@ -254,6 +254,7 @@ But what about SEO? We want to play with several ways to generate static google 
 Age, Ruben
 
 **Team members**
+- Jochem (Wehkamp)
 
 
 ### Very rough ideas
