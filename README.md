@@ -103,6 +103,25 @@ We are currently not collecting any kind of metrics on average, mean, minimum, m
 
 **Team members**
 
+
+---------------------------------------------------------------
+**Project**
+Single/Multi Page AngularJs Apps and SEO
+
+**Description**
+The current implementation of the Wehkamp Belgium platform uses AngularJs in a complicated combination with some server-side generated pages, all in order to be able to deliver correct SEO behavior. This is a dead end and its time we fix it so the plan is to replace all server-side generated pages with a proper API and AngularJs frontend. 
+
+But what about SEO? We want to play with several ways to generate static google pages in a way that is compatible with an e-commerce company that heavily depends on Google for income. We have looked at prerender.io or simply building our own separate app that serves those few special pages in a serverside rendered way specifically for search spider bots. Help us figure this out!
+
+**Contact person(s)**
+- Ruben
+- Age (backup)
+
+**Team members**
+- Jochem (Wehkamp)
+
+
+
 ---------------------------------------------------------------
 **Project**
 XSD CV Generator
@@ -237,24 +256,6 @@ Alternative: build a simple http client library wrapper around spray-client that
 **Contact person(s)**
 Age
 **Team members**
-
-
-### AngularJs, etc.
-
----------------------------------------------------------------
-**Project**
-Single/Multi Page AngularJs Apps and SEO
-
-**Description**
-The current implementation of the Wehkamp Belgium platform uses AngularJs in a complicated combination with some server-side generated pages, all in order to be able to deliver correct SEO behavior. This is a dead end and its time we fix it so the plan is to replace all server-side generated pages with a proper API and AngularJs frontend. 
-
-But what about SEO? We want to play with several ways to generate static google pages in a way that is compatible with an e-commerce company that heavily depends on Google for income. We have looked at prerender.io or simply building our own separate app that serves those few special pages in a serverside rendered way specifically for search spider bots. Help us figure this out!
-
-**Contact person(s)**
-Age, Ruben
-
-**Team members**
-- Jochem (Wehkamp)
 
 
 ### Very rough ideas
