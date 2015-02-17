@@ -217,6 +217,7 @@ Jurjan Woltman, Paul Frederix
 
 **Team members**
 - Armin (XSD)
+- Jaap ter Woerds
 
 ### Scala / Akka / Spray
 
