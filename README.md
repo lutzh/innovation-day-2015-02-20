@@ -102,7 +102,7 @@ We are currently not collecting any kind of metrics on average, mean, minimum, m
 - Age
 
 **Team members**
-
+- Jan Toebes (XSD)
 
 ---------------------------------------------------------------
 **Project**
