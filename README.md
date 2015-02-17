@@ -149,7 +149,7 @@ We'll be doing this :smiley:
 Explore solutions to common problems in different languages, etc.
 
 **Description**
-We want to start with trying to compare solutions for simple problems using Clojure and Scala. The goal is to see if significant differences in effort and complexicity are incountered
+We want to start with trying to compare solutions for simple problems using Clojure, Scala and Go. The goal is to see if significant differences in effort and complexicity are incountered
 
 **Contact person(s)**
 - Joost
@@ -158,6 +158,7 @@ We want to start with trying to compare solutions for simple problems using Cloj
 **Team members**
 - Joost
 - Daniel
+- Marc
 
 
 ---------------------------------------------------------------
