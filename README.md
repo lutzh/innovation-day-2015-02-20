@@ -169,10 +169,33 @@ Distributed Akka Persistence!
 The original guy behind Akka Persistence, Martin Krasser, has started a new project that takes those original ideas to the next level. It might be cool to experiment with this technology in the context of an Aka cluster. Check it out: [Eventuate](https://github.com/RBMHTechnology/eventuate). One of the most interesting things for Wehkamp would be sharded/replicated persistent actors that use CRDTs and distributed pub-sub behind the scenes to stay in sync. Goal: run a clustered akka app where the same persistent actor runs on every node and stays in sync without producing conflicts.
 
 **Contact person(s)**
-Age
+- Age
 
 **Team members**
 - Arnout
+
+
+---------------------------------------------------------------
+**Project**
+Deploying apps & micro-services to AWS: towards Docker!
+
+**Description**
+At Wehkamp we are currently using a large Ansible codebase to completely configure and deploy our AWS landscape. This contains everything from setting up virtual private networks, security roles, load balancers (ELB and HAproxy), etc to deploying our actual software (Scala/Akka/Spray services) and the stuff around it (Cassandra, Elasticsearch, Kafka, Hadoop). All of this is currently run in three environments (dev, accept, production) and kicked off from Bamboo.
+
+The teams are currently looking at migrating towards Docker and (probably) Consul but no final decisions have been made so there is a lot of room left for experimentation.
+
+What Wehkamp needs is some direction/options of how to organize this entire stack into easier to reuse and layer chunks. Docker is an obvious target for the apps and services (although clustering makes it a little harder) and perhaps also for the Cassandra, etc. But how do we better separate the AWS setup stuff from the deployment stuff? Should we go for Mesos? Should we use Consul? How do we network docker containers together? How does this interact with our (HAProxy) load balancers?
+
+**Contact person(s)**
+- Jurjan Woltman
+- Paul Frederix
+
+**Team members**
+- Armin (XSD)
+- Jaap ter Woerds
+
+
+
 
 ---------------------------------------------------------------
 **Project**
@@ -215,28 +238,7 @@ Jeroen Willemsen, Roy
 **Team members**
 
 
-### Cloud, Docker, PAAS, etc.
-
----------------------------------------------------------------
-**Project**
-Deploying apps & micro-services to AWS: towards Docker!
-
-**Description**
-At Wehkamp we are currently using a large Ansible codebase to completely configure and deploy our AWS landscape. This contains everything from setting up virtual private networks, security roles, load balancers (ELB and HAproxy), etc to deploying our actual software (Scala/Akka/Spray services) and the stuff around it (Cassandra, Elasticsearch, Kafka, Hadoop). All of this is currently run in three environments (dev, accept, production) and kicked off from Bamboo.
-
-The teams are currently looking at migrating towards Docker and (probably) Consul but no final decisions have been made so there is a lot of room left for experimentation.
-
-What Wehkamp needs is some direction/options of how to organize this entire stack into easier to reuse and layer chunks. Docker is an obvious target for the apps and services (although clustering makes it a little harder) and perhaps also for the Cassandra, etc. But how do we better separate the AWS setup stuff from the deployment stuff? Should we go for Mesos? Should we use Consul? How do we network docker containers together? How does this interact with our (HAProxy) load balancers?
-
-**Contact person(s)**
-Jurjan Woltman, Paul Frederix
-
-**Team members**
-- Armin (XSD)
-- Jaap ter Woerds
-
 ### Scala / Akka / Spray
-
 
 ---------------------------------------------------------------
 **Project**
