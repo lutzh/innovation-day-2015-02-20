@@ -159,6 +159,20 @@ We want to start with trying to compare solutions for simple problems using Cloj
 - Joost
 - Daniel
 
+
+---------------------------------------------------------------
+**Project**
+Distributed Akka Persistence!
+
+**Description**
+The original guy behind Akka Persistence, Martin Krasser, has started a new project that takes those original ideas to the next level. It might be cool to experiment with this technology in the context of an Aka cluster. Check it out: [Eventuate](https://github.com/RBMHTechnology/eventuate). One of the most interesting things for Wehkamp would be sharded/replicated persistent actors that use CRDTs and distributed pub-sub behind the scenes to stay in sync. Goal: run a clustered akka app where the same persistent actor runs on every node and stays in sync without producing conflicts.
+
+**Contact person(s)**
+Age
+
+**Team members**
+- Arnout
+
 ---------------------------------------------------------------
 **Project**
 **Description**
@@ -221,18 +235,6 @@ Jurjan Woltman, Paul Frederix
 - Jaap ter Woerds
 
 ### Scala / Akka / Spray
-
----------------------------------------------------------------
-**Project**
-Distributed Akka Persistence?
-
-**Description**
-The original guy behind Akka Persistence, Martin Krasser, has started a new project that takes those original ideas to the next level. It might be cool to experiment with this technology in the context of an Aka cluster. Check it out: [Eventuate](https://github.com/RBMHTechnology/eventuate). One of the most interesting things for Wehkamp would be sharded/replicated persistent actors that use CRDTs and distributed pub-sub behind the scenes to stay in sync. Goal: run a clustered akka app where the same persistent actor runs on every node and stays in sync without producing conflicts.
-
-**Contact person(s)**
-Age
-
-**Team members**
 
 
 ---------------------------------------------------------------
