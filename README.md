@@ -159,7 +159,7 @@ We want to start with trying to compare solutions for simple problems using Cloj
 - Joost
 - Daniel
 - Marc
-
+- Jesse
 
 ---------------------------------------------------------------
 **Project**
