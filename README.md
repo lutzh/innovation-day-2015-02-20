@@ -120,10 +120,22 @@ But what about SEO? We want to play with several ways to generate static google 
 - Age (backup)
 
 **Team members**
-- Jochem (Wehkamp)
 - Vincent (wehkamp.com)
 
+---------------------------------------------------------------
+**Project**
+Shop'o'matic / Shop The Look
 
+**Description**
+Wehkamp's target audience likes to be inspired by trending outfits driven by our popular brands. Our Dutch content platform contributes to this fact, together with our static 'Shop the Look' functionality. In the Blaze platform, we're currently providing a fairly static way of presenting our products. We are looking for a more inspiring UX and dynamic way of combining different types of clothes and accessories, mix & match them in to one complete outfit and purchase the whole set. How do we use our data? Do we create pre-defined outfits that can be recommended? Help us find a way to combine data and an I-definitely-want-to-buy-that-outfit UX!
+
+**Contact person(s)**
+- Lisette de Haas
+
+**Team members**
+- Lisette de Haas (wehkamp.com)
+- Ruud Volkers (wehkamp.com)
+- Jochem Rebergen (wehkamp.com)
 
 ---------------------------------------------------------------
 **Project**
