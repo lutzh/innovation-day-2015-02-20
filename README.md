@@ -259,14 +259,17 @@ Age
 ---------------------------------------------------------------
 **Project**
 Akka remoting and guaranteed message delivery over Http?
+
 **Description**
-All of our Wehkamp apps and services are developed on top of Akka and Spray but at the moment we need to explicitly build Http REST APIs to communicate between services. Wouldn't it be nice if we have some kind of bridge library to tunnel Akka messages over Http? It would make connecting service a lot simpler without directly tying them together by sharing domain code, which we would have to do if we would use the existing Akka remoting stack. 
+All of our Wehkamp apps and services are developed on top of Akka and Spray but at the moment we need to explicitly build Http REST APIs to communicate between services. Wouldn't it be nice if we have some kind of bridge library to tunnel Akka messages over Http? It would make connecting services a lot simpler without directly tying them together by sharing domain code, which we would have to do if we would use the existing Akka remoting stack. 
 
 Alternative: build a simple http client library wrapper around spray-client that takes care of retries with incremental backoff
+
 **Contact person(s)**
 Age
-**Team members**
 
+**Team members**
+Dennis Vis (XSD)
 
 ### Very rough ideas
 
