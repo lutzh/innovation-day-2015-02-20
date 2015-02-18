@@ -215,12 +215,35 @@ We have three Google Glass devices to play with. Let's do some cool stuff with t
 
 ---------------------------------------------------------------
 **Project**
+Akka remoting and guaranteed message delivery over Http?
+
+**Description**
+All of our Wehkamp apps and services are developed on top of Akka and Spray but at the moment we need to explicitly build Http REST APIs to communicate between services. Wouldn't it be nice if we have some kind of bridge library to tunnel Akka messages over Http? It would make connecting services a lot simpler without directly tying them together by sharing domain code, which we would have to do if we would use the existing Akka remoting stack. 
+
+Alternative: build a simple http client library wrapper around spray-client that takes care of retries with incremental backoff
+
+**Contact person(s)**
+- Age
+- Jan Toebes
+- Arnout
+
+**Team members**
+- Dennis Vis (XSD)
+
+
+---------------------------------------------------------------
+**Project**
 **Description**
 **Contact person(s)**
 **Team members**
 
 
-## Proposed Projects/Ideas
+
+
+-----------------------------------------------------------------------------------
+
+## Project Ideas / Inspiration
+When one of these projects tickles your fancy, please move it up to the active projects section.
 
 ### Mobile / Responsive / UX
 Some rough ideas:
@@ -268,20 +291,7 @@ Age
 **Team members**
 
 
----------------------------------------------------------------
-**Project**
-Akka remoting and guaranteed message delivery over Http?
 
-**Description**
-All of our Wehkamp apps and services are developed on top of Akka and Spray but at the moment we need to explicitly build Http REST APIs to communicate between services. Wouldn't it be nice if we have some kind of bridge library to tunnel Akka messages over Http? It would make connecting services a lot simpler without directly tying them together by sharing domain code, which we would have to do if we would use the existing Akka remoting stack. 
-
-Alternative: build a simple http client library wrapper around spray-client that takes care of retries with incremental backoff
-
-**Contact person(s)**
-Age
-
-**Team members**
-Dennis Vis (XSD)
 
 ### Very rough ideas
 
