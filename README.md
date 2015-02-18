@@ -193,6 +193,7 @@ What Wehkamp needs is some direction/options of how to organize this entire stac
 **Team members**
 - Armin (XSD)
 - Jaap ter Woerds
+- Mike Woudenberg
 
 
 
