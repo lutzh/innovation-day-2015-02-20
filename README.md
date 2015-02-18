@@ -193,7 +193,7 @@ What Wehkamp needs is some direction/options of how to organize this entire stac
 
 **Contact person(s)**
 - Jurjan Woltman
-- Paul Frederix
+- Paul Frederix  
 
 **Team members**
 - Armin (XSD)
@@ -201,6 +201,16 @@ What Wehkamp needs is some direction/options of how to organize this entire stac
 - Mike Woudenberg
 
 
+---------------------------------------------------------------
+**Project**  
+Play with Google Glass  
+**Description**  
+We have three Google Glass devices to play with. Let's do some cool stuff with those!  
+**Contact person(s)**
+- Benny de Leeuw  (bdleeuw@Wehkamp.nl)
+- Martijn Schoemaker (mschoemaker@Wehkamp.nl)  
+
+**Team members**
 
 
 ---------------------------------------------------------------
@@ -215,7 +225,6 @@ What Wehkamp needs is some direction/options of how to organize this entire stac
 ### Mobile / Responsive / UX
 Some rough ideas:
 
-- **Play with Google Glass**
 - **"speak to search"**: a web/app button that translates spoken word into a Wehkamp product search
 - **Fancy native app UX showcases** (iOS8 or Android material design) for searching Wehkamp and browsing through products, etc.
  
