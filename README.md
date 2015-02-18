@@ -161,6 +161,7 @@ We want to start with trying to compare solutions for simple problems using Cloj
 - Daniel
 - Marc
 - Jesse
+- Arnold
 
 ---------------------------------------------------------------
 **Project**
