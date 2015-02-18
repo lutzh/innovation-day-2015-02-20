@@ -70,6 +70,7 @@ of the Wehkamp product catalog.
 **Team members**
 - Joshua (XSD)
 - Misja (XSD)
+- Ruurd (XSD)
 
 ---------------------------------------------------------------
 **Project**
