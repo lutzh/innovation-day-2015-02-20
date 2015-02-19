@@ -149,6 +149,9 @@ Links
 - Ruben
 
 **Team members**
+- Ruben (XSD)
+- William (Wehkamp)
+- Peter (XSD)
 
 ---------------------------------------------------------------
 **Project**
