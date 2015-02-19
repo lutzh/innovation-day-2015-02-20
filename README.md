@@ -104,7 +104,7 @@ We are currently not collecting any kind of metrics on average, mean, minimum, m
 - Age (not participating)
 
 **Team members**
-- Jan Toebes (XSD)
+
 
 ---------------------------------------------------------------
 **Project**
@@ -241,7 +241,7 @@ What Wehkamp needs is some direction/options of how to organize this entire stac
 - Mike Woudenberg (XSD)
 - Arjan Wulder (XSD)
 - Roy Bos (XSD)
-
+- Jan Toebes (XSD)
 
 ---------------------------------------------------------------
 **Project**
