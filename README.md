@@ -126,19 +126,25 @@ But what about SEO? We want to play with several ways to generate static google 
 
 ---------------------------------------------------------------
 **Project**
-React (re)flux product search
+React + reflux product search
 
 **Description**
-Make a searchable product assortment which uses wehkamp's search API. We will use react as a rendering engine and as a platform we will be using either flux or reflux. 
+Make a searchable product assortment which uses wehkamp's search API. We will use react as a rendering engine and as a platform we will be using either flux or reflux.
+
+Look at the readme on [github](https://github.com/wehkamp/id-react-search) to get the application running. Please make sure it runs before the actual innovation day.
 
 MVP
 * A working search box with a product list
 * A test for this
 
 Possible research directions:
-* Can we filter 1000+ products client side
 * How easy is it to server side render the page
-* Can we do routing using flux
+* Can we do routing using reflux
+* Is testing better when you generate dom
+* Can we do more in react using less code
+
+Github
+* https://github.com/wehkamp/id-react-search
 
 Links
 * https://facebook.github.io/react/
