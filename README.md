@@ -298,6 +298,7 @@ Links
 **Team members**
 - Marcus (XSD)
 - Gerard (XSD)
+- Wouter (Will be late or might not make it at all)
 
 ---------------------------------------------------------------
 **Project**
