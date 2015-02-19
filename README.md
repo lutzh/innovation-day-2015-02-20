@@ -226,7 +226,7 @@ What Wehkamp needs is some direction/options of how to organize this entire stac
 - Jaap ter Woerds
 - Mike Woudenberg (XSD)
 - Arjan Wulder (XSD)
-
+- Roy Bos (XSD)
 
 ---------------------------------------------------------------
 **Project**  
