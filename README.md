@@ -299,6 +299,20 @@ Links
 
 ---------------------------------------------------------------
 **Project**
+Create an Android L product search app
+
+**Description**
+The focus of this project is to see whether we can implement material design on an Android app while using AppCompat libray. We will create a basic product search app using the Wehkamp API's
+
+**Contact person(s)**
+- Jeroen W.(XSD)
+
+**Team members**
+- Jeroen W.(XSD)
+- Ronald
+
+---------------------------------------------------------------
+**Project**
 **Description**
 **Contact person(s)**
 **Team members**
