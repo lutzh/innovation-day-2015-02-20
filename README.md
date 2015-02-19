@@ -261,6 +261,25 @@ Alternative: build a simple http client library wrapper around spray-client that
 **Team members**
 - Dennis Vis (XSD)
 
+---------------------------------------------------------------
+**Project**
+Blaze Dashboarding
+
+**Description**
+Whitin wehkamp there is a wish for more information about the Blaze internals. How many orders did we had today? What did we releases to production? When was the last release, how many times did we releases to production today? All this info is available and some is even reported on a daily/weekly base. But we have no simple 'one-look-is-enough' dashboard that makes this info visible. 
+
+Letst start with some simple dashboarding showing us:
+- Orders (today-x)
+- Jira Status changes (done=live) via webhook
+- Bamboo build and deploy stats
+
+**Contact person(s)**
+- Danny Higler
+
+**Team members**
+- Danny Higler (wehkamp.com)
+- Vincent Wolff (wehkamp.com)
+- Eelco Middelburg (wehkamp.com)
 
 ---------------------------------------------------------------
 **Project**
