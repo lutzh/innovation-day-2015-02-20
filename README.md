@@ -71,6 +71,7 @@ of the Wehkamp product catalog.
 - Joshua (XSD)
 - Misja (XSD)
 - Ruurd (XSD)
+- Barend (XSD)
 
 ---------------------------------------------------------------
 **Project**
