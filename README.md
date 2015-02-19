@@ -289,6 +289,27 @@ Letst start with some simple dashboarding showing us:
 
 ---------------------------------------------------------------
 **Project**
+Recipe DSL
+
+**Description**
+Using different technologies like Xtext and parboiled2 we want to implement a DSL for describing recipes.
+The goal is to get experienced in the field of DSL specification, parsing and interpreting.
+
+Links
+* http://eclipse.org/Xtext/
+* https://github.com/sirthias/parboiled2/
+* https://www.fpcomplete.com/user/adinapoli/the-pragmatic-haskeller/episode-5-a-simple-dsl/
+
+**Contact person(s)**
+- Marcus (XSD)
+- Gerard (XSD)
+
+**Team members**
+- Marcus (XSD)
+- Gerard (XSD)
+
+---------------------------------------------------------------
+**Project**
 **Description**
 **Contact person(s)**
 **Team members**
