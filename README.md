@@ -130,7 +130,7 @@ React + reflux product search
 **Description**
 Make a searchable product assortment which uses wehkamp's search API. We will use react as a rendering engine and as a platform we will be using either flux or reflux.
 
-Look at the readme on [github](https://github.com/wehkamp/id-react-search) to get the application running. Please make sure it runs before the actual innovation day.
+Ask permission for the github at Ruben, Age or Jurjan. Then you can look at the readme on [github](https://github.com/wehkamp/id-react-search) to get the application running. Please make sure it runs before the actual innovation day.
 
 MVP
 * A working search box with a product list
