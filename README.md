@@ -101,7 +101,7 @@ Akka/Spray metrics
 We are currently not collecting any kind of metrics on average, mean, minimum, maximum response times, number of requests per time period, actor mailbox bottlenecks, etc. These would be very useful indeed so we want to play with akka-monitor and kamon and connect those to our existing (or new) SAAS metrics services (mainly New Relic).
 
 **Contact person(s)**
-- Age
+- Age (not participating)
 
 **Team members**
 - Jan Toebes (XSD)
@@ -214,6 +214,7 @@ New blog on this topic: http://krasserm.github.io//2015/02/17/Implementing-opera
 - Arnout
 - Dirk
 - Remco
+- Age
 
 
 ---------------------------------------------------------------
@@ -238,17 +239,6 @@ What Wehkamp needs is some direction/options of how to organize this entire stac
 - Arjan Wulder (XSD)
 - Roy Bos (XSD)
 
----------------------------------------------------------------
-**Project**  
-Play with Google Glass  
-**Description**  
-We have three Google Glass devices to play with. Let's do some cool stuff with those!  
-**Contact person(s)**
-- Benny de Leeuw  (bdleeuw@Wehkamp.nl)
-- Martijn Schoemaker (mschoemaker@Wehkamp.nl)  
-
-**Team members**
-
 
 ---------------------------------------------------------------
 **Project**
@@ -260,9 +250,7 @@ All of our Wehkamp apps and services are developed on top of Akka and Spray but 
 Alternative: build a simple http client library wrapper around spray-client that takes care of retries with incremental backoff
 
 **Contact person(s)**
-- Age
-- Jan Toebes
-- Arnout
+- Age (not participating, can help with bootstrapping and introductions)
 
 **Team members**
 - Dennis Vis (XSD)
@@ -286,27 +274,6 @@ Letst start with some simple dashboarding showing us:
 - Danny Higler (wehkamp.com)
 - Vincent Wolff (wehkamp.com)
 - Eelco Middelburg (wehkamp.com)
-
----------------------------------------------------------------
-**Project**
-Recipe DSL
-
-**Description**
-Using different technologies like Xtext and parboiled2 we want to implement a DSL for describing recipes.
-The goal is to get experienced in the field of DSL specification, parsing and interpreting.
-
-Links
-* http://eclipse.org/Xtext/
-* https://github.com/sirthias/parboiled2/
-* https://www.fpcomplete.com/user/adinapoli/the-pragmatic-haskeller/episode-5-a-simple-dsl/
-
-**Contact person(s)**
-- Marcus (XSD)
-- Gerard (XSD)
-
-**Team members**
-- Marcus (XSD)
-- Gerard (XSD)
 
 ---------------------------------------------------------------
 **Project**
