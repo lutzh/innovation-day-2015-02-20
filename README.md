@@ -116,11 +116,38 @@ The current implementation of the Wehkamp Belgium platform uses AngularJs in a c
 But what about SEO? We want to play with several ways to generate static google pages in a way that is compatible with an e-commerce company that heavily depends on Google for income. We have looked at prerender.io or simply building our own separate app that serves those few special pages in a serverside rendered way specifically for search spider bots. Help us figure this out!
 
 **Contact person(s)**
-- Ruben
+- Ruben (not partipating)
 - Age (backup)
 
 **Team members**
 - Vincent (wehkamp.com)
+
+---------------------------------------------------------------
+**Project**
+React (re)flux product search
+
+**Description**
+Make a searchable product assortment which uses wehkamp's search API. We will use react as a rendering engine and as a platform we will be using either flux or reflux. 
+
+MVP
+* A working search box with a product list
+* A test for this
+
+Possible research directions:
+* Can we filter 1000+ products client side
+* How easy is it to server side render the page
+* Can we do routing using flux
+
+Links
+* https://facebook.github.io/react/
+* https://facebook.github.io/flux/docs/overview.html
+* https://github.com/spoike/refluxjs
+* http://blog.krawaller.se/posts/reflux-refinement/
+
+**Contact person(s)**
+- Ruben
+
+**Team members**
 
 ---------------------------------------------------------------
 **Project**
@@ -138,27 +165,7 @@ Wehkamp's target audience likes to be inspired by trending outfits driven by our
 - Jochem Rebergen (wehkamp.com)
 
 ---------------------------------------------------------------
-**Project**
-XSD CV Generator
 
-**Description**
-Quote from a recent mail thread: 
-
-> *"Als we dan toch bezig zijn, kunnen we het cv niet gewoon aanleveren in een template
-onafhankelijk formaat zoals bijvoorbeeld JSON? Een tooltje zoals Jasper reports erbij
-om inhoud in een template te gooien en er komt vanzelf een nette PDF uit. Zodra de
-template gemaakt is kan iedereen zijn eigen CV in json omzetten en ziet het er altijd
-hetzelfde uit."*
-
-We'll be doing this :smiley:
-
-**Contact person(s)**
-- Constantijn
-- Ruben
-
-**Team members**
-
----------------------------------------------------------------
 **Project**
 Explore solutions to common problems in different languages, etc.
 
