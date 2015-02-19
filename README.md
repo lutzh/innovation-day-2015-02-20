@@ -22,12 +22,12 @@ from obliteration so perhaps you can have some fun with those?
 
 When?           | what?
 :---------------|---------------------------------------
-08:00 - 09:00   | arrival, breakfast, gear setup
-09:00 ~ 09:20   | kickoff in Cookies (cantine)
-09:30 - 13:00   | hacking on projects
-13:00 ~ 14:00   | lunch in Cookies
-14:00 - 16:30   | hacking on projects
-16:30 ~ 18:00   | final presentations in Cookies
+08:00 - 09:00   | arrival, breakfast, gear setup (2B)
+09:00 ~ 09:20   | kickoff (2B, in the corner with the couch)
+09:30 - 13:15   | hacking on projects (2B)
+13:15 ~ 14:00   | lunch in Cookies
+14:00 - 16:30   | hacking on projects (2B)
+16:30 ~ 18:00   | final presentations (in Cookies, downstairs)
 
 
 ## Location
