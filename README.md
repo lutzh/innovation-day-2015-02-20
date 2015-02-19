@@ -298,6 +298,21 @@ Links
 
 ---------------------------------------------------------------
 **Project**
+Create a material design Android app to search and browse through products.
+
+**Description**
+This project is intended to discover which parts of material design can be implemented already given the Appcompat library. We will create a simple product search app on Android using the available elements.
+
+**Contact person(s)**
+Jeroen Willemsen (XSD)
+
+**Team members**
+- Jeroen Willemsen (XSD)
+- Ronald Warners
+
+
+---------------------------------------------------------------
+**Project**
 **Description**
 **Contact person(s)**
 **Team members**
