@@ -120,7 +120,6 @@ But what about SEO? We want to play with several ways to generate static google 
 - Age (backup)
 
 **Team members**
-- Vincent (wehkamp.com)
 - Frank
 - Thijmen
 
@@ -175,6 +174,7 @@ Wehkamp's target audience likes to be inspired by trending outfits driven by our
 - Lisette de Haas (wehkamp.com)
 - Ruud Volkers (wehkamp.com)
 - Jochem Rebergen (wehkamp.com)
+- Vincent (wehkamp.com)
 
 ---------------------------------------------------------------
 
