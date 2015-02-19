@@ -122,6 +122,7 @@ But what about SEO? We want to play with several ways to generate static google 
 **Team members**
 - Vincent (wehkamp.com)
 - Frank
+- Thijmen
 
 ---------------------------------------------------------------
 **Project**
